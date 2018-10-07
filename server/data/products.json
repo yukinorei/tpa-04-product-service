@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "卵ボーロ",
+    "price": 109,
+    "imageUrl": "https://pbs.twimg.com/profile_images/510408704458379265/WzFxKw75_400x400.jpeg"
+  },
+  {
+    "id": 1,
+    "name": "かっぱえびせん",
+    "price": 68,
+    "imageUrl": "https://item-shopping.c.yimg.jp/i/l/zennokasiten_4901330105938"
+  },
+  {
+    "id": 2,
+    "name": "ハイチュウ",
+    "price": 79,
+    "imageUrl": "http://livedoor.blogimg.jp/jin115/imgs/e/6/e6d9afc1.png"
+  },
+  {
+    "id": 3,
+    "name": "ピュレグミ・セット",
+    "price": 329,
+    "imageUrl": "https://s3-ap-northeast-1.amazonaws.com/cdn.gourmet-note.jp/production/posts/eyecatches/000/003/951/eyecatch.jpg?1529124909"
+  },
+  {
+    "id": 4,
+    "name": "ジャガビー",
+    "price": 129,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81xjdLR1fcL._SX425_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ポッキー",
+    "price": 100,
+    "imageUrl": "https://sep.yimg.com/ay/blaircandy/pocky-chocolate-biscuit-sticks-10-count-20.jpg"
+  }
+]

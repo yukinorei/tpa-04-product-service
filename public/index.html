@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/prism.css">
+  <link rel="stylesheet" href="/css/products.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <h1>プロダクト・サービス（お菓子版）</h1>
+
+    <p>様々なお菓子をカートに追加して、APIを叩いて戻ってくる合計を表示しよう。</p>
+
+    <hr>
+
+    <div class="products">
+      <!-- products go here, see snippet.js -->
+    </div>
+    <button id="get-total-price">Get Total Price</button>
+    <h1 id="total-price">Total Price: <span>￥0</span></h1>
+
+  </div>
+  <script type="module">
+    import initApp from '/js/app.js';
+    initApp();
+  </script>
+</body>
+
+</html>
