@@ -64,8 +64,8 @@ GET /api/price?ids=[ids]
 レスポンス
 Response Body
 {
-  "productIds": ["2","3"],
-  "total":4 08
+  "productIds": [2, 3],
+  "total": 408
 }
 ```
 
