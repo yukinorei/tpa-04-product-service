@@ -6,6 +6,4 @@ const makeMapById = function(products) {
   return map;
 };
 
-module.exports = {
-  makeMapById,
-};
+module.exports = makeMapById;
