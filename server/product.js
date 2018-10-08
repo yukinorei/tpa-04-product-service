@@ -1,5 +1,5 @@
-const products = require('../data/products.json');
-const makeMapById = require('../utils/makeMapById');
+const products = require('./data/products.json');
+const makeMapById = require('./utils/makeMapById');
 
 const productsById = makeMapById(products);
 
